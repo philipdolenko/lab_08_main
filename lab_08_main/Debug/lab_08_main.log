@@ -1,0 +1,3 @@
+﻿  lab_08_main.cpp
+c:\users\sispo\source\repos\lab_08_main\lab_08_main\lab_08_main.cpp(63): warning C4101: 'min': unreferenced local variable
+  lab_08_main.vcxproj -> C:\Users\Sispo\source\repos\lab_08_main\Debug\lab_08_main.exe
