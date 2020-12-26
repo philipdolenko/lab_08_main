@@ -1,2 +1,2 @@
 # lab_08_main
-<img src="./lab_08+1.svg">
+<img src="./lab_08.svg">
